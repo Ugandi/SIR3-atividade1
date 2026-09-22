@@ -1,0 +1,143 @@
+
+{
+  "alunos": [
+    {
+      "nome": "Joana",
+      "apelido": "Silva",
+      "idCurso": 1,
+      "anoCurricular": 2,
+      "idade" : 21
+    },
+    {
+    "nome": "Miguel",
+    "apelido": "Costa",
+    "idCurso": 2,
+    "anoCurricular": 1,
+    "idade": 19
+    },
+    {
+      "nome": "Beatriz",
+      "apelido": "Santos",
+      "idCurso": 1,
+      "anoCurricular": 3,
+      "idade": 22
+    },
+    {
+      "nome": "Diogo",
+      "apelido": "Oliveira",
+      "idCurso": 3,
+      "anoCurricular": 2,
+      "idade": 21
+    },
+    {
+      "nome": "Inês",
+      "apelido": "Ferreira",
+      "idCurso": 4,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Pedro",
+      "apelido": "Rodrigues",
+      "idCurso": 2,
+      "anoCurricular": 3,
+      "idade": 23
+    },
+    {
+      "nome": "Mariana",
+      "apelido": "Martins",
+      "idCurso": 1,
+      "anoCurricular": 1,
+      "idade": 19
+    },
+    {
+      "nome": "Rafael",
+      "apelido": "Gomes",
+      "idCurso": 3,
+      "anoCurricular": 4,
+      "idade": 24
+    },
+    {
+      "nome": "Sofia",
+      "apelido": "Pereira",
+      "idCurso": 4,
+      "anoCurricular": 2,
+      "idade": 20
+    },
+    {
+      "nome": "André",
+      "apelido": "Almeida",
+      "idCurso": 2,
+      "anoCurricular": 1,
+      "idade": 18
+    },
+    {
+      "nome": "Carolina",
+      "apelido": "Ribeiro",
+      "idCurso": 1,
+      "anoCurricular": 4,
+      "idade": 23
+    },
+    {
+      "nome": "Gonçalo",
+      "apelido": "Pinto",
+      "idCurso": 3,
+      "anoCurricular": 2,
+      "idade": 20
+    },
+    {
+      "nome": "Marta",
+      "apelido": "Teixeira",
+      "idCurso": 4,
+      "anoCurricular": 3,
+      "idade": 22
+    },
+    {
+      "nome": "Tiago",
+      "apelido": "Correia",
+      "idCurso": 2,
+      "anoCurricular": 4,
+      "idade": 24
+    },
+    {
+      "nome": "Ana",
+      "apelido": "Moreira",
+      "idCurso": 1,
+      "anoCurricular": 2,
+      "idade": 20
+    },
+    {
+      "nome": "Bruno",
+      "apelido": "Cardoso",
+      "idCurso": 3,
+      "anoCurricular": 1,
+      "idade": 19
+    }
+  ],
+  "cursos": [
+    {
+      "id": 1,
+      "nomeDoCurso": "Engenharia da Computação Gráfica e Multimédia"
+    },
+    {
+      "id": 2,
+      "nomeDoCurso": "Engenharia de Redes e Sistemas de Computadores"
+    },
+    {
+      "id": 3,
+      "nomeDoCurso": "Engenharia Informática"
+    },
+    {
+      "id": 4,
+      "nomeDoCurso": "Engenharia de Software"
+    },
+    {
+      "id": 5,
+      "nomeDoCurso": "Engenharia de Inteligência Artificial"
+    },
+    {
+      "id": 6,
+      "nomeDoCurso": "Engenharia de Sistemas e Computadores"
+    }
+  ]
+}

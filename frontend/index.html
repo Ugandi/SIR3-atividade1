@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>RESTAPI</title>
+    </head>
+    
+    <body>
+        <h1>Welcome to the REST API</h1>
+        <h2> Alunos </h2>
+        <div id="divalunos">
+
+        </div>
+        <script>
+            async function getAlunos(){
+                const response = await fetch('http://localhost:3000/alunos');
+                const alunos = await response.json();
+                return alunos;
+            }
+
+            async function mostraAlunos(){
+                const alunos = await  getAlunos();
+                console.log(alunos);
+
+                const divalunos = document.getElementById("divalunos");
+                aluno1p = document.createElement("p");
+                aluno1p.textContent = "Nome: " + alunos[0].nome + " - Idade: " + alunos[0].idade;
+                divalunos.appendChild
+                //aluno1p.textcontent = 'Nome. ${alunos[0].nome}, Idade: ${alunos[0].idade}';
+            }
+            mostraAlunos();
+
+        </script>
+    </body>
+</html>

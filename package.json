@@ -2,12 +2,16 @@
   "name": "at_1_apis",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "scripts": {
+    "dev": "nodemon backend/server.js",
+    "mock": "json-server --watch mock-data/bd.json --port 3000 --static frontend",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "3.1.14"
+  }
 }

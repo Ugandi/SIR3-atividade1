@@ -2,6 +2,7 @@
 {
   "alunos": [
     {
+      "id": 1,
       "nome": "Joana",
       "apelido": "Silva",
       "idCurso": 1,
@@ -9,13 +10,15 @@
       "idade" : 21
     },
     {
-    "nome": "Miguel",
-    "apelido": "Costa",
-    "idCurso": 2,
-    "anoCurricular": 1,
-    "idade": 19
+      "id": 2,
+      "nome": "Miguel",
+      "apelido": "Costa",
+      "idCurso": 2,
+      "anoCurricular": 1,
+      "idade": 19
     },
     {
+      "id": 3,
       "nome": "Beatriz",
       "apelido": "Santos",
       "idCurso": 1,
@@ -23,6 +26,7 @@
       "idade": 22
     },
     {
+      "id": 4,
       "nome": "Diogo",
       "apelido": "Oliveira",
       "idCurso": 3,
@@ -30,6 +34,7 @@
       "idade": 21
     },
     {
+      "id": 5,
       "nome": "Inês",
       "apelido": "Ferreira",
       "idCurso": 4,
@@ -37,6 +42,7 @@
       "idade": 18
     },
     {
+      "id": 6,
       "nome": "Pedro",
       "apelido": "Rodrigues",
       "idCurso": 2,
@@ -44,6 +50,7 @@
       "idade": 23
     },
     {
+      "id": 7,
       "nome": "Mariana",
       "apelido": "Martins",
       "idCurso": 1,
@@ -51,6 +58,7 @@
       "idade": 19
     },
     {
+      "id": 8,
       "nome": "Rafael",
       "apelido": "Gomes",
       "idCurso": 3,
@@ -58,6 +66,7 @@
       "idade": 24
     },
     {
+      "id": 9,
       "nome": "Sofia",
       "apelido": "Pereira",
       "idCurso": 4,
@@ -65,6 +74,7 @@
       "idade": 20
     },
     {
+      "id": 10,
       "nome": "André",
       "apelido": "Almeida",
       "idCurso": 2,
@@ -72,6 +82,7 @@
       "idade": 18
     },
     {
+      "id": 11,
       "nome": "Carolina",
       "apelido": "Ribeiro",
       "idCurso": 1,
@@ -79,6 +90,7 @@
       "idade": 23
     },
     {
+      "id": 12,
       "nome": "Gonçalo",
       "apelido": "Pinto",
       "idCurso": 3,
@@ -86,6 +98,7 @@
       "idade": 20
     },
     {
+      "id": 13,
       "nome": "Marta",
       "apelido": "Teixeira",
       "idCurso": 4,
@@ -93,6 +106,7 @@
       "idade": 22
     },
     {
+      "id": 14,
       "nome": "Tiago",
       "apelido": "Correia",
       "idCurso": 2,
@@ -100,6 +114,7 @@
       "idade": 24
     },
     {
+      "id": 15,
       "nome": "Ana",
       "apelido": "Moreira",
       "idCurso": 1,
@@ -107,6 +122,7 @@
       "idade": 20
     },
     {
+      "id": 16,
       "nome": "Bruno",
       "apelido": "Cardoso",
       "idCurso": 3,
